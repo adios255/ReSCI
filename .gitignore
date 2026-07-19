@@ -1,0 +1,33 @@
+# === Sorties d'exécution ReSCI (données de cibles, à NE JAMAIS committer) ===
+resci_enum_*/
+resci_scout_*/
+*.log
+loot/
+exports/
+*.nmap
+*.xml
+*.gnmap
+
+# === Secrets / config locale ===
+.env
+*.env
+upload_to_notion.sh
+*.pem
+*.key
+id_rsa*
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# === OS / éditeurs ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
