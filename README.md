@@ -31,7 +31,7 @@ Voir le `README.md` de chaque dossier pour l'installation et l'usage détaillés
 ## 🚀 Démarrage rapide
 
 ```bash
-git clone https://github.com/<ton-user>/ReSCI.git
+git clone https://github.com/adios255/ReSCI.git
 cd ReSCI
 
 # Scout (rapide)
